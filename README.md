@@ -1,46 +1,44 @@
-# Getting Started with Create React App
+## CheckUrBill - Bill Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ---- BILL USER PORTAL SITE -----
 
-## Available Scripts
+![C-README-1](https://github.com/Ericson-WebDeveloper/CheckUrBill/assets/60337201/c32f591b-9a0d-406a-a0dd-e630714657cd)
 
-In the project directory, you can run:
+## Merchant Biller Page
+![screencapture-payment-urbill-portal-netlify-app-billers-2023-09-03-13_39_11](https://github.com/Ericson-WebDeveloper/CheckUrBill/assets/60337201/64d7691f-c59f-4e6f-8411-9d8ac6bd736c)
 
-### `npm start`
+## Login Page 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![screencapture-payment-urbill-portal-netlify-app-singin-2023-09-03-13_39_24](https://github.com/Ericson-WebDeveloper/CheckUrBill/assets/60337201/5ec92a15-5d86-4cb5-8ed3-4759e9e40c07)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Register Page
 
-### `npm test`
+![screencapture-payment-urbill-portal-netlify-app-signup-2023-09-03-13_39_40](https://github.com/Ericson-WebDeveloper/CheckUrBill/assets/60337201/77e4f2e2-04ae-4ec3-a772-a771362ca8aa)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Authenticate User Home Page
 
-### `npm run build`
+![screencapture-payment-urbill-portal-netlify-app-app-auth-2023-09-03-13_40_14](https://github.com/Ericson-WebDeveloper/CheckUrBill/assets/60337201/3a7e3e4a-69c1-4a5f-80a4-bde5b7b3709a)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Authenticate User Account Bill Page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![screencapture-payment-urbill-portal-netlify-app-app-auth-enroll-account-706710364-P-20230729112218-2023-09-03-13_40_32](https://github.com/Ericson-WebDeveloper/CheckUrBill/assets/60337201/70d5e107-528e-470c-86cd-a24c38cfcee1)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Authenticate User Enroll Account Page
 
-### `npm run eject`
+![screencapture-payment-urbill-portal-netlify-app-app-auth-2023-09-03-14_03_51](https://github.com/Ericson-WebDeveloper/CheckUrBill/assets/60337201/e44a4108-2fe5-49b6-9e53-226b1a76b338)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Authenticate User Current Bill Page
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![screencapture-payment-urbill-portal-netlify-app-app-auth-enroll-account-451226480-P-20230729112218-2023-09-03-14_01_23](https://github.com/Ericson-WebDeveloper/CheckUrBill/assets/60337201/7f7cb22f-fa1c-471b-86e6-ff0c4fe3e168)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Authenticate User Current Bill Payment Selection Page
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![screencapture-payment-urbill-portal-netlify-app-app-auth-enroll-account-451226480-P-20230729112218-2023-09-03-14_01_39](https://github.com/Ericson-WebDeveloper/CheckUrBill/assets/60337201/c34be665-2ae8-4e73-a0a3-78606ea35306)
 
-## Learn More
+## Authenticate User Current Bill Payment Selection Page
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![screencapture-payment-urbill-portal-netlify-app-app-auth-enroll-account-451226480-P-20230729112218-2023-09-03-14_01_46](https://github.com/Ericson-WebDeveloper/CheckUrBill/assets/60337201/0b64a8a1-1a71-4446-90cd-36454703ff43)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Authenticate User Succes Payment Reflection in Account Page
+
+![screencapture-payment-urbill-portal-netlify-app-app-auth-enroll-account-451226480-P-20230729112218-2023-09-03-14_02_26](https://github.com/Ericson-WebDeveloper/CheckUrBill/assets/60337201/08c8e450-17fc-4ad8-adf8-33079af88704)
