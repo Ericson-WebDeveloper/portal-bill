@@ -1,4 +1,4 @@
-## CheckUrBill - Bill Portal
+## Bill Portal
 
 ## ---- BILL USER PORTAL SITE -----
 
